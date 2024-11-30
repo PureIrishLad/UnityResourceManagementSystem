@@ -1,0 +1,9 @@
+{
+  "name": "com.pureirishlad.unityresourcemanagementsystem",
+  "displayName": "Unity Resource Management System",
+  "version": "1.0.0",
+  "unity": "6000.27",
+  "description": "Streamline loading/creating scriptable objects in Unity's Resources folders",
+  "license": "MIT",
+  "dependencies": {}
+}
