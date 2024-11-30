@@ -5,6 +5,7 @@ namespace UnityResourceManagementSystem
     /// <summary>
     /// Attribute to define resource creation details
     /// </summary>
+    [AttributeUsage(AttributeTargets.Class, AllowMultiple = false, Inherited = false)]
     public class UnityResourceAttribute : Attribute
     {
         private readonly string m_fileName;
